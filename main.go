@@ -17,7 +17,7 @@ func main() {
 
 	//creating an infinite loop
 	for{
-		fmt.Println("\nA CLI Based To-Do App")
+		fmt.Println("\nTo-Do-Go: A Simple To-Do List written in Go")
 		fmt.Println("1. List Tasks")
 		fmt.Println("2. Add Task")
 		fmt.Println("3. Remove Task")
